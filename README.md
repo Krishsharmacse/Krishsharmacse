@@ -82,8 +82,9 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,pandas,scikit_learn,git,linux,mysql,postgres,cplusplus,flask" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,fastapi,flask,tensorflow,pytorch,sklearn,pandas,docker,git,linux,mysql,postgres" />
 </p>
+
 
 ---
 
