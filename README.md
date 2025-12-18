@@ -81,6 +81,8 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,sql,fastapi,flask,tensorflow,pytorch,sklearn,pandas,docker,git,linux,mysql,postgres" />
 </p>
@@ -147,10 +149,7 @@
   <a href="https://github.com/KrishSharma" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/krish-sharma-212325282/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" />
   </a>
 </p>
