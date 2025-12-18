@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Sharma</h1>
-<h3 align="center">A Passionate AI & Machine Learning Developer</h3>
+<h3 align="center">Generative AI & Machine Learning Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrishSharma&label=Profile%20views&color=0e75b6&style=flat" alt="KrishSharma" />
@@ -9,42 +9,83 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Agentic AI & LLM-based projects**
-- 🌱 I’m currently learning **LangGraph, FastAPI, MCP, Docker & Advanced ML**
-- 👯 I’m looking to collaborate on **AI, ML & GenAI projects**
-- 🤝 I’m looking for help with **Scalable AI Systems & Model Optimization**
-- 💬 Ask me about **AI, ML, NLP, FastAPI, LLMs**
-- 📫 How to reach me: **krishsharma1062@gmail.com**
+- 🔭 Currently working on **Agentic AI, Generative AI & LLM-powered systems**
+- 🌱 Learning **LangGraph, RAG, MCP, FastAPI, Docker & Advanced ML**
+- 👯 Open to collaboration on **GenAI, ML & NLP projects**
+- 🤝 Looking for help with **scalable AI systems & inference optimization**
+- 💬 Ask me about **GenAI, ML, NLP, FastAPI, LLMs**
+- 📫 Reach me at **krishsharma1062@gmail.com**
 - ⚡ Fun fact: *I think I am funny 😄*
 
 ---
 
-## 🧠 AI / ML Skills
+## 🧠 Programming & Software Fundamentals
 
-**Machine Learning & AI**
-- Python, NumPy, Pandas
-- Scikit-learn, TensorFlow, PyTorch
-- NLP, Resume Parsing, LLMs
-- LangChain, LangGraph
-- Agentic AI Systems
+- **Languages:** C, C++, Python, SQL  
+- **Scripting:** Python, Bash  
+- **Debugging:** Exception handling, logging, performance profiling  
+- **Software Design:** API-based architecture, modular & testable code  
 
-**Backend & APIs**
-- FastAPI, Flask
-- REST APIs
-- MongoDB, PostgreSQL
+---
 
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- Linux
-- VS Code
+## 🤖 Machine Learning & Deep Learning
+
+**Supervised Learning**
+- Linear Regression, Decision Trees, Random Forest, SVM  
+
+**Unsupervised Learning**
+- K-Means, Hierarchical Clustering, PCA  
+
+**Deep Learning**
+- CNNs, RNNs, LSTMs, GRU  
+- Transformers, Encoder–Decoder architectures  
+- Artificial Neural Networks (ANN)
+
+**Libraries & Frameworks**
+- Scikit-learn, TensorFlow, Keras, PyTorch  
+
+---
+
+## 🧬 Natural Language Processing & GenAI
+
+- Text Classification, Embeddings, Sequence Models  
+- Transformer architecture & attention mechanism  
+- Prompt Engineering & Context Management  
+- Retrieval-Augmented Generation (RAG)  
+- Semantic Search & Cosine Similarity  
+- Resume Parsing & AI Career Coaching  
+
+**Tools**
+- Hugging Face Transformers  
+- LangChain, LangGraph  
+- Llama.cpp  
+
+---
+
+## 📊 Data Science & Model Evaluation
+
+- Data Cleaning & Feature Engineering  
+- Missing Value Handling  
+- Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC  
+- Visualization: Matplotlib, Seaborn  
+- Tools: NumPy, Pandas, Scikit-learn  
+
+---
+
+## ⚙️ Backend & Application Development
+
+- Backend using **FastAPI & Flask**
+- RESTful API design, request validation & pagination  
+- JWT-based authentication  
+- ML/AI model integration into production systems  
+- Databases: **MySQL, PostgreSQL, MongoDB, Vector Databases**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,git,linux,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,git,linux,mysql,postgres,mongodb" />
 </p>
 
 ---
@@ -52,12 +93,37 @@
 ## 📌 Featured Projects
 
 ### 🔹 Agentic AI System
-> Multi-agent AI workflow using LangGraph & LLMs  
+> Multi-agent AI workflows using LangGraph & LLMs  
 🔗 **Repo:** https://github.com/Krishsharmacse/Agentic-AI
 
-### 🔹 AI Resume Analyzer
-> LLM-based Resume Analysis using FastAPI  
+### 🔹 AI Resume Analyzer with AI Career Coach
+> LLM-based resume evaluation using embeddings, transformers & cosine similarity  
 🔗 **Repo:** *Coming Soon*
+
+### 🔹 Health Chatbot (Gemma Model)
+> Context-aware AI chatbot using the Gemma LLM
+
+### 🔹 Brain Tumor Detection (CNN)
+> MRI image classification using CNN  
+📊 **Accuracy:** 92%
+
+### 🔹 Fake News Detection System
+> NLP-based classification using Random Forest
+
+### 🔹 Salary & Employee Prediction Systems
+> Regression & ANN models on structured HR data
+
+### 🔹 Bank Churn Prediction
+> Classification models for customer churn analysis
+
+### 🔹 Customer Segmentation
+> K-Means clustering for behavioral grouping
+
+### 🔹 Carbon Emission Prediction
+> ML model estimating CO₂ emissions based on activity data
+
+### 🔹 IoT Home Automation
+> NodeMCU-based automation system
 
 ---
 
