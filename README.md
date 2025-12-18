@@ -23,9 +23,7 @@
 
 - **Languages:** C, C++, Python, SQL  
 - **Scripting:** Python, Bash  
-- **Debugging:** Exception handling, logging, performance profiling  
-- **Software Design:** API-based architecture, modular & testable code  
-
+- **Debugging:** Exception handling, logging
 ---
 
 ## 🤖 Machine Learning & Deep Learning
@@ -76,16 +74,15 @@
 
 - Backend using **FastAPI & Flask**
 - RESTful API design, request validation & pagination  
-- JWT-based authentication  
 - ML/AI model integration into production systems  
-- Databases: **MySQL, PostgreSQL, MongoDB, Vector Databases**
+- Databases: **MySQL, PostgreSQL, Vector Databases**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,git,linux,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,pandas,scikit_learn,git,linux,mysql,postgres,cplusplus,flask" />
 </p>
 
 ---
