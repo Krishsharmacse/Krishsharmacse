@@ -19,152 +19,127 @@
 
 ---
 
-## 🧠 Programming & Software Fundamentals
-
-- **Languages:** C, C++, Python, SQL  
-- **Scripting:** Python, Bash  
-- **Debugging:** Exception handling, logging
----
-
-## 🤖 Machine Learning & Deep Learning
-
-**Supervised Learning**
-- Linear Regression, Decision Trees, Random Forest, SVM  
-
-**Unsupervised Learning**
-- K-Means, Hierarchical Clustering, PCA  
-
-**Deep Learning**
-- CNNs, RNNs, LSTMs, GRU  
-- Transformers, Encoder–Decoder architectures  
-- Artificial Neural Networks (ANN)
-
-**Libraries & Frameworks**
-- Scikit-learn, TensorFlow, Keras, PyTorch  
-
----
-
-## 🧬 Natural Language Processing & GenAI
-
-- Text Classification, Embeddings, Sequence Models  
-- Transformer architecture & attention mechanism  
-- Prompt Engineering & Context Management  
-- Retrieval-Augmented Generation (RAG)  
-- Semantic Search & Cosine Similarity  
-- Resume Parsing & AI Career Coaching  
-
-**Tools**
-- Hugging Face Transformers  
-- LangChain, LangGraph  
-- Llama.cpp  
-
----
-
-## 📊 Data Science & Model Evaluation
-
-- Data Cleaning & Feature Engineering  
-- Missing Value Handling  
-- Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC  
-- Visualization: Matplotlib, Seaborn  
-- Tools: NumPy, Pandas, Scikit-learn  
-
----
-
-## ⚙️ Backend & Application Development
-
-- Backend using **FastAPI & Flask**
-- RESTful API design, request validation & pagination  
-- ML/AI model integration into production systems  
-- Databases: **MySQL, PostgreSQL, Vector Databases**
-
----
-
 ## 🛠️ Tech Stack
 
+### 📚 Programming & Software Fundamentals
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,fastapi,flask,tensorflow,pytorch,sklearn,pandas,docker,git,linux,mysql,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
-<h3 align="left">🧰 Languages and Tools:</h3>
-<h3 align="left">🧰 Languages and Tools</h3>
 
+### 🤖 Machine Learning & AI
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
 </p>
 
+### ⚡ Backend & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+### 📊 Data Visualization
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Agentic AI System
+### 🔹 **Agentic AI System** 
 > Multi-agent AI workflows using LangGraph & LLMs  
-🔗 **Repo:** https://github.com/Krishsharmacse/Agentic-AI
+🔗 **Repo:** https://github.com/Krishsharmacse/Agentic-AI  
+🛠️ **Tech:** LangGraph, OpenAI, FastAPI, Vector DB
 
-### 🔹 AI Resume Analyzer with AI Career Coach
-> LLM-based resume evaluation using embeddings, transformers & cosine similarity  
-🔗 **Repo:** *Coming Soon*
+### 🔹 **AI Resume Analyzer with Career Coach** 
+> LLM-based resume evaluation using embeddings & cosine similarity  
+🔗 **Repo:** *Coming Soon*  
+🛠️ **Tech:** Transformers, Hugging Face, Sentence Transformers, FAISS
 
-### 🔹 Health Chatbot (Gemma Model)
-> Context-aware AI chatbot using the Gemma LLM
+### 🔹 **Health Chatbot (Gemma Model)** 
+> Context-aware AI chatbot using the Gemma LLM  
+🛠️ **Tech:** Gemma, LangChain, Streamlit
 
-### 🔹 Brain Tumor Detection (CNN)
+### 🔹 **Brain Tumor Detection (CNN)** 
 > MRI image classification using CNN  
-📊 **Accuracy:** 92%
+📊 **Accuracy:** 92%  
+🛠️ **Tech:** TensorFlow, Keras, OpenCV
 
-### 🔹 Fake News Detection System
-> NLP-based classification using Random Forest
+### 🔹 **Fake News Detection System** 
+> NLP-based classification using Random Forest  
+🛠️ **Tech:** Scikit-learn, NLP, TF-IDF
 
-### 🔹 Salary & Employee Prediction Systems
-> Regression & ANN models on structured HR data
+### 🔹 **Salary & Employee Prediction Systems** 
+> Regression & ANN models on structured HR data  
+🛠️ **Tech:** PyTorch, Pandas, Scikit-learn
 
-### 🔹 Bank Churn Prediction
-> Classification models for customer churn analysis
+### 🔹 **Bank Churn Prediction** 
+> Classification models for customer churn analysis  
+🛠️ **Tech:** XGBoost, Random Forest, SMOTE
 
-### 🔹 Customer Segmentation
-> K-Means clustering for behavioral grouping
+### 🔹 **Customer Segmentation** 
+> K-Means clustering for behavioral grouping  
+🛠️ **Tech:** Scikit-learn, PCA, Seaborn
 
-### 🔹 Carbon Emission Prediction
-> ML model estimating CO₂ emissions based on activity data
+### 🔹 **Carbon Emission Prediction** 
+> ML model estimating CO₂ emissions  
+🛠️ **Tech:** Linear Regression, Feature Engineering
 
-### 🔹 IoT Home Automation
-> NodeMCU-based automation system
+### 🔹 **IoT Home Automation** 
+> NodeMCU-based automation system  
+🛠️ **Tech:** C++, Arduino, IoT
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishsharmacse&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishsharmacse&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsharmacse&layout=compact&theme=tokyonight" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Krishsharmacse&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsharmacse&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishsharmacse&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Krishsharmacse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/krish-sharma-212325282/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:krishsharma1062@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" style="margin: 0 10px;" />
   </a>
 </p>
