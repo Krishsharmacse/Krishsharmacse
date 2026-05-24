@@ -15,6 +15,7 @@
 - 🤝 Looking for help with **scalable AI systems & inference optimization**
 - 💬 Ask me about **GenAI, ML, NLP, FastAPI, LLMs**
 - 📫 Reach me at **krishsharma1062@gmail.com**
+- Portfolio **https://krish-sharma-portfolio.vercel.app/**
 - ⚡ Fun fact: *I think I am funny 😄*
 
 ---
