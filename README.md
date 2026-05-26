@@ -1,146 +1,155 @@
-<h1 align="center">Hi 👋, I'm Krish Sharma</h1>
-<h3 align="center">Generative AI & Machine Learning Developer</h3>
+Hi 👋, I'm Krish Sharma
+Generative AI & Machine Learning Developer
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KrishSharmacse&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p>
+🚀 About Me
+🔭 Working on Agentic AI, Generative AI & LLM-powered systems
+🌱 Currently learning LangGraph, MCP, RAG pipelines, FastAPI, Docker & scalable AI systems
+👯 Open to collaboration on GenAI, NLP, Deep Learning & Backend projects
+💬 Ask me about LLMs, AI Agents, RAG, ML, FastAPI, Python
+⚡ Fun fact: I think I’m funny 😄
+🛠️ Tech Stack
+💻 Programming Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> </p>
+🤖 Machine Learning & Generative AI
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/> </p>
+🔹 AI & NLP Skills
+LLMs (GPT, Gemini, Ollama)
+LangChain & LangGraph
+RAG Pipelines
+Prompt Engineering & Optimization
+Transformers & Attention Mechanisms
+Embeddings & Vector Databases
+Fine-Tuning (LoRA, PEFT, SFT)
+NLP Tasks: Classification, QA, Summarization, Information Extraction
+🔹 Vector Databases & Retrieval
+FAISS
+ChromaDB
+Pinecone
+Cosine Similarity Search
+⚡ Backend & DevOps
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> </p>
+🔹 Backend Skills
+FastAPI
+Flask
+Node.js
+Express.js
+REST APIs
+Microservices Architecture
+JWT Authentication & OAuth 2.0
+RBAC Authorization
+Docker & CI/CD Pipelines
+📌 Featured Projects
+🔹 Agentic AI System
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishSharma&label=Profile%20views&color=0e75b6&style=flat" alt="KrishSharma" />
-</p>
+Multi-agent AI workflows using LangGraph & LLMs
 
----
+🛠️ Tech: LangGraph, OpenAI, FastAPI, Vector DB
+🔗 Repo:
+https://github.com/Krishsharmacse/Agentic-AI
+🔹 AI Resume Analyzer & Career Coach
 
-## 🚀 About Me
+LLM-powered resume evaluation system using embeddings and cosine similarity.
 
-- 🔭 Currently working on **Agentic AI, Generative AI & LLM-powered systems**
-- 🌱 Learning **LangGraph, RAG, MCP, FastAPI, Docker & Advanced ML**
-- 👯 Open to collaboration on **GenAI, ML & NLP projects**
-- 🤝 Looking for help with **scalable AI systems & inference optimization**
-- 💬 Ask me about **GenAI, ML, NLP, FastAPI, LLMs**
-- 📫 Reach me at **krishsharma1062@gmail.com**
-- Portfolio **https://krish-sharma-portfolio.vercel.app/**
-- ⚡ Fun fact: *I think I am funny 😄*
+🛠️ Tech: Hugging Face, Sentence Transformers, FAISS, Transformers
+✨ Features:
+Resume analysis
+Interview Coach
+Career suggestions
+ATS optimization
+🔹 Deepfake Detection System
 
----
+Real-time audio & video deepfake detection using Deep Learning and Transformers.
 
-## 🛠️ Tech Stack
+🛠️ Tech: CNN, BiLSTM, Transformers
+🔹 Brain Tumor Detection (CNN)
 
-### 📚 Programming & Software Fundamentals
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
+MRI image classification model with nearby hospital recommendation integration.
 
-### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
-</p>
+📊 Accuracy: 92%
+🛠️ Tech: TensorFlow, Keras, OpenCV
+🔹 AutoPrint Automation System
 
-### ⚡ Backend & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+Queue-based remote printing platform with real-time processing.
 
-### 📊 Data Visualization
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-</p>
+🛠️ Tech: Python, Redis, Docker, CUPS, Nginx
+🔹 PC Recommendation System
 
----
+AI-powered intelligent PC build recommendation engine.
 
-## 📌 Featured Projects
+🛠️ Tech: Machine Learning, AI Agents, Recommendation Systems
+🔹 Fake News Detection System
 
-### 🔹 **Agentic AI System** 
-> Multi-agent AI workflows using LangGraph & LLMs  
-🔗 **Repo:** https://github.com/Krishsharmacse/Agentic-AI  
-🛠️ **Tech:** LangGraph, OpenAI, FastAPI, Vector DB
+NLP-based fake news classifier with LangGraph agents.
 
-### 🔹 **AI Resume Analyzer with Career Coach** 
-> LLM-based resume evaluation using embeddings & cosine similarity  
-🔗 **Repo:** *Coming Soon*  
-🛠️ **Tech:** Transformers, Hugging Face, Sentence Transformers, FAISS
+🛠️ Tech: Scikit-learn, NLP, LangGraph, TF-IDF
+🔹 Bank Churn Prediction
 
-### 🔹 **Health Chatbot (Gemma Model)** 
-> Context-aware AI chatbot using the Gemma LLM  
-🛠️ **Tech:** Gemma, LangChain, Streamlit
+ML-based customer churn analysis and prediction system.
 
-### 🔹 **Brain Tumor Detection (CNN)** 
-> MRI image classification using CNN  
-📊 **Accuracy:** 92%  
-🛠️ **Tech:** TensorFlow, Keras, OpenCV
+🛠️ Tech: XGBoost, Random Forest, SMOTE
+🔹 Customer Segmentation
 
-### 🔹 **Fake News Detection System** 
-> NLP-based classification using Random Forest  
-🛠️ **Tech:** Scikit-learn, NLP, TF-IDF
+Behavioral customer grouping using clustering techniques.
 
-### 🔹 **Salary & Employee Prediction Systems** 
-> Regression & ANN models on structured HR data  
-🛠️ **Tech:** PyTorch, Pandas, Scikit-learn
+🛠️ Tech: K-Means, PCA, Seaborn
+🔹 IoT Home Automation
 
-### 🔹 **Bank Churn Prediction** 
-> Classification models for customer churn analysis  
-🛠️ **Tech:** XGBoost, Random Forest, SMOTE
+Smart home automation using NodeMCU.
 
-### 🔹 **Customer Segmentation** 
-> K-Means clustering for behavioral grouping  
-🛠️ **Tech:** Scikit-learn, PCA, Seaborn
+🛠️ Tech: C++, Arduino, IoT
+🎓 Education
+🎓 GGSIPU (USICT)
 
-### 🔹 **Carbon Emission Prediction** 
-> ML model estimating CO₂ emissions  
-🛠️ **Tech:** Linear Regression, Feature Engineering
+B.Tech in Computer Science & Engineering
+📅 2024 – 2027
+📊 CGPA: 8.5
 
-### 🔹 **IoT Home Automation** 
-> NodeMCU-based automation system  
-🛠️ **Tech:** C++, Arduino, IoT
+🎓 G.B. Pant Institute of Technology
 
----
+Diploma in Electrical Engineering
+📅 2021 – 2024
+📊 CGPA: 9.01
 
-## 📊 GitHub Stats
+💼 Experience
+🔹 AI Intern — Prodigal AI
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Krishsharmacse&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsharmacse&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishsharmacse&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</p>
+📅 Jan 2026 – Apr 2026
 
----
+Developed AI-driven automation systems
+Built ML pipelines for production workflows
+Worked on AI-based PC Recommendation Systems
+🔹 AI Research Intern — Cod4Bots Technologies Pvt Ltd
 
-## 🌐 Connect With Me
+📅 Jun 2025 – Sep 2025
 
-<p align="center">
-  <a href="https://github.com/Krishsharmacse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/krish-sharma-212325282/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin: 0 10px;" />
-  </a>
-  <a href="mailto:krishsharma1062@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" style="margin: 0 10px;" />
-  </a>
-</p>
+Conducted research on Transformers & Generative AI
+Worked on LLM-based applications and NLP systems
+🔹 AI/ML Intern — CodSoft
+
+📅 Jan 2025 – Feb 2025
+
+🔹 Summer Trainee — Mercedes Benz
+
+📅 Feb 2023 – Apr 2023
+
+🔹 Intern — Delhi Transco Limited
+
+📅 Jun 2023 – Jul 2023
+
+🏆 Certifications
+IBM AI Engineering Certification
+Microsoft Fundamentals of AI & ML
+Oracle Certified Generative AI Professional
+Cisco Data Science Essentials with Python
+🏅 Achievements
+🏆 Ranked in Top 10 at E-Raksha National Hackathon — IIT Delhi
+🚀 Finalist at Innerve Hackathon — IGDTUW
+💡 Participated in Smart India Hackathon (SIH) 2025
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krishsharmacse&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsharmacse&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishsharmacse&theme=tokyonight&hide_border=true"/> </p>
+🌐 Connect With Me
+GitHub: https://github.com/Krishsharmacse
+LinkedIn: https://www.linkedin.com/in/krish-sharma-212325282/
+Portfolio: https://krish-sharma-portfolio.vercel.app/
+Email: krishsharma1062@gmail.com
+📍 New Delhi, India
