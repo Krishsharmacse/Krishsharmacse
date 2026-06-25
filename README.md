@@ -20,7 +20,7 @@
 - 🤝 Looking for help with **scalable AI systems & inference optimization**
 - 💬 Ask me about **GenAI, LLMs, FastAPI, Node.js, Docker, RAG & ML**
 - 📫 Reach me at **krishsharma1062@gmail.com**
-- 📍 New Delhi, India | 📞 +91 9310967404
+- 📍 New Delhi, India 
 - 🌐 **[View My Portfolio](https://krish-sharma-portfolio.vercel.app/)**
 - ⚡ Fun fact: *I think I am funny 😄*
 
@@ -88,7 +88,6 @@ _Jun 2023 – Jul 2023_
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
